@@ -14,7 +14,7 @@ For parties with your loved ones and friends to break the ice.
 ## API Selection
 **API Name:** Joke API, Evil Insult Generator, Meme-API
 **API Documentation:** https://jokeapi.dev  https://evilinsult.com/api/ https://meme-api.com/
-**Why this API?** It's one of many Joke APIs, but it's the most customizable and most feature rich in this CATegory.
+**Why this API?** These are the most customizable and most feature rich in these CATegories.
 
 ### 2. GitHub Repository
 
