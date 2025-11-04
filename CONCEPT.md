@@ -1,4 +1,4 @@
-# [Your Project Name]
+#  Party Game Bot
 
 ## Team Members
 - Member 1 - Alise Linda Valdheima
@@ -6,15 +6,15 @@
 - Member 3 - Edvards Broders
 
 ## Project Description
-[2-3 sentences describing what your app does]
+It's a bot for Discord that posts a random joke when someone types /joke in the chat. 
 
 ## Problem Statement
-[What problem are you solving? Who is this for?]
+For parties with your loved ones and friends to break the ice. 
 
 ## API Selection
-**API Name:** [e.g., TMDB API]  
-**API Documentation:** [URL]  
-**Why this API?** [1-2 sentences]
+**API Name:** Joke API
+**API Documentation:** https://jokeapi.dev  
+**Why this API?** It's one of many Joke APIs, but it's the most customizable and most feature rich in this CATegory.
 
 ### 2. GitHub Repository
 
@@ -22,6 +22,8 @@
 
 project-name/
 └── README.md
+└── CONCEPT.md
+
 
 **README.md should include:**
 - Project title
