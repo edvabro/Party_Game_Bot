@@ -20,10 +20,9 @@ For parties with your loved ones and friends to break the ice.
 
 **Required structure for now:**
 
-project-name/
+Party_Game_Bot/
 └── README.md
 └── CONCEPT.md
-
 
 **README.md should include:**
 - Project title
